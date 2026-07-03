@@ -1,2 +1,2 @@
-# analise-fiis
-Análise de fundos imobiliários usando Python.
+# Análise de Fundos Imobiliários
+Análise de fundos imobiliários listados na B3 usando Python.
